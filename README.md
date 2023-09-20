@@ -40,16 +40,13 @@
 
 ## Я в сети 
 <div align="center">
-<a href="https://github.com/SergeyK2004" target="_blank">
+<a href="https://github.com/Mokwar7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/sergey-krivoruchko-3b7420203" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:sergey.kriv.2004@gmail.com" target="_blank">
+<a href="mailto:mokwar7@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
-<a href="http://t.me/serge_k1" target="_blank">
+<a href="http://t.me/mokwar_ru" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>  
