@@ -63,7 +63,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mokwar7&&style=flat-square" align="center" />
-<img src="https://sun9-41.userapi.com/impg/NnaZsIBl-IKJzD4i6ZyRkjUNoSLbv9t4tNWNMw/UsFE0--KSiA.jpg?size=2000x2000&quality=95&sign=3446300e410cef7cb1508a711cc3f8ea&type=album" align="center" height="200"/>
 </div>  
   
 
