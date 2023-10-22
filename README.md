@@ -21,7 +21,6 @@
 
 <div align="center">  
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-<img src="https://sun9-41.userapi.com/impg/NnaZsIBl-IKJzD4i6ZyRkjUNoSLbv9t4tNWNMw/UsFE0--KSiA.jpg?size=2000x2000&quality=95&sign=3446300e410cef7cb1508a711cc3f8ea&type=album" alt="React logo" title="React" height="250" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=E34F26" alt="CSS3 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
